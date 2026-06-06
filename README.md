@@ -43,9 +43,19 @@ The design ecosystem was evaluated through empirical user testing sessions invol
 **Mean System Usability Score:** `82.4 / 100` *(Classified as "Excellent" / Grade A Usability according to HCI Industry Standards).*
 
 ---
-
 ## 👥 Engineering & UX Team
 *   **Elif Öztürk** - Mobile Main Screen B, Recipe Dynamic Scaling, Unified Checkout Core, HCI Data Lead.
 *   **Ilgın** - Mobile Login/Registration Onboarding, Explore Variant A Dashboard Architecture.
 *   **Pelin** - Web Smart Cart Inventory Isolation, Real-Time Price Summaries, Form Validation Guards.
 *   **Merve** - Desktop Portal Grid Architecture, Guest Bypass Gateway, Password Toggle Controls.
+```markdown
+## 🎥 Project Demonstration Videos
+
+Below are the individual feature demonstration and walkthrough videos recorded by each team member:
+
+| Team Member | Covered Features & HCI Frameworks | Watch Link |
+| :--- | :--- | :---: |
+| **Elif Öztürk** | Mobile Version B Layout, Dynamic Portion Scaling, AI Feature Button & My Cart Architecture | [Watch Video](./Se212%20project%20details-ELİF.mp4) |
+| **Ilgın** | Mobile Explore Screen Version A, Gateway Login & Registration States | [Watch Video](./Se212%20project%20details-Ilgın.mp4) |
+| **Merve** | Desktop Grid Portal, Guest Access Paths, Password Eye Toggles & Multi-box Verification | [Watch Video](./Se212%20project%20details-Merve.mp4) |
+| **Pelin** | AI Smart Cart Framework, Shipment Dynamic Forms & Order Confirmation Interactivity | [Watch Video](./Se212%20project%20details-Pelin.mp4) |
